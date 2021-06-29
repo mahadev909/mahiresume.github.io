@@ -1,0 +1,25 @@
+marquee{
+    color: orange;
+    font-family: monospace;
+    font-size: 14px;
+
+}
+img{
+    border-radius: 50%;
+}
+.course{
+    color: red;
+}
+table ,th,tr,td{
+    border: 1px solid aqua;
+    
+}
+table{
+    width: 100%;
+}
+p,li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+     background-color: beige;
+}
