@@ -1,14 +1,14 @@
 marquee{
     color: orange;
     font-family: monospace;
-    font-size: 14px;
+    font-size: 15px;
 
 }
 img{
-    border-radius: 50%;
+    border-radius: 60%;
 }
 .course{
-    color: red;
+    color: blue;
 }
 table ,th,tr,td{
     border: 1px solid aqua;
